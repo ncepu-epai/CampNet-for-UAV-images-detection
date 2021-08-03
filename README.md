@@ -51,9 +51,13 @@ Code of Improvement
 ---------------------
 
 ***1.Multi-layer feature fusion:*** 
-The code is located on `./libs/networks/slim_nets/resnet.py(row 109)`
+
+The code is located on `./libs/networks/resnet.py (row 109)`
 
  ***2.Context information fusion:*** 
  
+ The code is located on `./libs/networks/build_whole_network.py (row 143)`
  
  ***3.Detector enhancement:*** 
+
+ The code is located on `./libs/networks/resnet.py (row 221)`
