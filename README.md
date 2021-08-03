@@ -45,3 +45,13 @@ Clone the repository
   ```       
    Model training and testing refer to https://github.com/yangxue0827/FPN_Tensorflow.
 
+Code of Improvement
+---------------------
+
+***1.Multi-layer feature fusion:*** 
+
+
+ ***2.Context information fusion:*** 
+ 
+ 
+ ***3.Detector enhancement:*** 
