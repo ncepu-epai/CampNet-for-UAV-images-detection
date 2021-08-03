@@ -16,13 +16,13 @@ introduction
     described in this method.
    ***2.Context information fusion:*** 
    
-   Fuse the object feature information and its contextual information to reduce the false detection in the 
-   complex image background. In the UAV inspection images, there are some objects highly like the bolts, 
-   and they also would be detected as regions of interest (RoI) by RPN. Because a bolt usually exists on 
-   a particular part of a power transmission tower, the surrounding information around the bolt helps to 
-   distinguish the defective bolts from similar objects. We tried three different fusion strategies, all 
-   of which improve the detection accuracy of defective bolts to varying degrees. This proves that the 
-   contextual information helps to reduce the false detection of similar objects indeed.  
+    Fuse the object feature information and its contextual information to reduce the false detection in the 
+    complex image background. In the UAV inspection images, there are some objects highly like the bolts, 
+    and they also would be detected as regions of interest (RoI) by RPN. Because a bolt usually exists on 
+    a particular part of a power transmission tower, the surrounding information around the bolt helps to 
+    distinguish the defective bolts from similar objects. We tried three different fusion strategies, all 
+    of which improve the detection accuracy of defective bolts to varying degrees. This proves that the 
+    contextual information helps to reduce the false detection of similar objects indeed.  
     ***3.Detector enhancement:*** 
     
     Residual units, which are adopted in ResNet, are added to perform convolution on RoI before they are
