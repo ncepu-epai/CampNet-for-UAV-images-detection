@@ -43,7 +43,9 @@ Clone the repository
   ```Shell    
   git clone https://github.com/ncepu-epai/CampNet-for-UAV-images-detection.git    
   ```       
-   Model training and testing refer to https://github.com/yangxue0827/FPN_Tensorflow.
+Train and Test
+--------------------
+ Model training and testing refer to https://github.com/yangxue0827/FPN_Tensorflow.
 
 Code of Improvement
 ---------------------
