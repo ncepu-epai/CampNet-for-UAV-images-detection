@@ -4,7 +4,8 @@ introduction
 -------------------
     CampNet is a target detection model used to detect defective pins in transmission lines. Three improvements   
     have been made based on Faster-RCNN. 
-    ***1.Multi-layer feature fusion:*** In the UAV inspection images, some critical components in the tower such as 
+    ***1.Multi-layer feature fusion:*** 
+    In the UAV inspection images, some critical components in the tower such as 
     bolts often have a small size, and the feature used to distinguish 
     between normal and defective bolts is smaller (nearly 15 pixel). Faster R-CNN only feeds the deep feature 
     layer to region proposal network (RPN), and loses detail information  
