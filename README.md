@@ -2,7 +2,8 @@ CampNet-for-UAV-images-detection
 ====================================
 introduction
 -------------------
-    CampNet is a target detection model used to detect defective pins in transmission lines. Three improvements have been made based on Faster-RCNN.  
+    CampNet is a target detection model used to detect defective pins in transmission lines. Three improvements   
+    have been made based on Faster-RCNN.  
     
     1.Multi-layer feature fusion: In the UAV inspection images, some critical components in the tower such as bolts often have a small size, and the feature used to distinguish 
     
